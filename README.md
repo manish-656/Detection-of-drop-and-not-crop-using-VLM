@@ -1,5 +1,3 @@
-# Detection-of-drop-and-not-crop-using-VLM
-
 
 # 🌿 Crop vs Non-Crop Detection using Deep Learning and VLM
 
